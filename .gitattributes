@@ -1,2 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 DTM/models_42/** filter=lfs diff=lfs merge=lfs -text
+LDA/corpus filter=lfs diff=lfs merge=lfs -text
+LDA/data_lemmatized filter=lfs diff=lfs merge=lfs -text
