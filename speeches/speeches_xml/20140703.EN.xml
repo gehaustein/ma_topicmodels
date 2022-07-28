@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="20140703.EN" lang="en" date="2014-07-03" place="Strasbourg" edition="Revised edition">
+  <section id="creitem1" title="1. Opening of the sitting"/>
+  <section id="creitem2" title="2. Approval of the minutes of the previous sitting: see Minutes"/>
+  <section id="creitem3" title="3. Request for the waiver of parliamentary immunity : see Minutes"/>
+  <section id="creitem4" title="4. Composition of Parliament: see Minutes"/>
+  <section id="creitem5" title="5. Implementing measures (Rule 106): see Minutes"/>
+  <section id="creitem6" title="6. Petitions: see Minutes"/>
+  <section id="creitem7" title="7. Transfers of appropriations: see Minutes"/>
+  <section id="creitem8" title="8. Voting time : see Minutes"/>
+  <section id="creitem9" title="9. Documents received: see Minutes"/>
+  <section id="creitem10" title="10. Forwarding of texts adopted during the sitting: see Minutes"/>
+  <section id="creitem11" title="11. Dates of forthcoming sittings: see Minutes"/>
+  <section id="creitem12" title="12. Adjournment of the session">
+    <intervention id="4-020-000" speaker_id="1911" name="Der Präsident" is_mep="True" mode="spoken">
+      <p sl="en">Ich erkläre die Sitzungsperiode des Europäischen Parlaments für unterbrochen.</p>
+      <a text="(Die Sitzung wird um 10.05 Uhr geschlossen.)"/>
+    </intervention>
+  </section>
+</text>
